@@ -1,0 +1,16 @@
+{
+    "server": "pl125.plemiona.pl",
+    "thread_id" : "0000000000000000",
+    "admins": ["000000000000000"],
+    "sleep_time": "1",
+    "quiet" : "False",
+    "players": 
+    { 
+        "0000000000000000" : {
+            "fb_id" : "0000000000000000",
+            "tw_id" : "698198069",
+            "nick" : "Hermitowski",
+            "range" : "10"
+        },
+    }
+}
